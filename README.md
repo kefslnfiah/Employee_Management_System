@@ -18,3 +18,6 @@ for login as Employees (employee 1 (name specified in project)): e@e.com , passw
 
 Must login as Admin first to create tasks and see all the details in localstorage and to perform all the functions.
 Now login as employee who has been alloted tasks and who will perform actions on it.
+
+
+Note: Initially you have to allot the first task twice then it will appear at employe profile. Then you are good to go. 
